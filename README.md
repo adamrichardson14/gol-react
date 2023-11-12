@@ -3,6 +3,10 @@
 ### Getting started
 
 ```bash
+git clone https://github.com/adamrichardson14/gol-react.git && cd gol-react
+```
+
+```bash
 npm install
 ```
 
